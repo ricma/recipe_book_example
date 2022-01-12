@@ -10,3 +10,5 @@ List of typical replacements for recipes:
 +--------------+------------------------+
 | egg          | chickpea water, banana |
 +--------------+------------------------+
+| honey        | agave sirup            |
++--------------+------------------------+
