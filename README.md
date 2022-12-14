@@ -8,3 +8,6 @@ So far we have:
 
 ## Common replacements
 See this [table](substitutes.rst)
+
+## Future Ideas
+We should do more non-bakes!
